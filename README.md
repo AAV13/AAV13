@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-vispute" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AAV13&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-vispute" /> </p>
 
 ---
 
