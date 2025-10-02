@@ -2,7 +2,6 @@
 <h3 align="center">A Master's in Data Science student transforming data into actionable insights.</h3>
 
 <br>
----
 
 ### 👨‍💻 About Me
 
