@@ -2,9 +2,6 @@
 <h3 align="center">A Master's in Data Science student transforming data into actionable insights.</h3>
 
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AAV13&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-vispute" /> </p>
-
 ---
 
 ### 👨‍💻 About Me
